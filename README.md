@@ -1,12 +1,11 @@
 # My Coffee House ☕
 
 A fully responsive coffee shop website built with modern HTML5 and CSS3, showcasing clean design principles and mobile-first development approach.
-
-![Coffee Shop Website Preview](/images/1100px-desktop.png)
-
 ## 🌟 Live Demo
 
 [View Live Website](https://sudip-sasquash0x01.github.io/College-work-SemII-1/)
+
+![Coffee Shop Website Preview](/images/1100px-desktop.png)
 
 ## 📋 Table of Contents
 
