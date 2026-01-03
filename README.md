@@ -3,7 +3,7 @@
 A fully responsive coffee shop website built with modern HTML5 and CSS3, showcasing clean design principles and mobile-first development approach.
 ## 🌟 Live Demo
 
-[View Live Website](https://sudip-sasquash0x01.github.io/Single-Page-Website-Semester-1---Midterm-/)
+[View Live Website](https://sudip-sasquash0x01.github.io/Responsive-Landing-Page-Semester-2---Midterm-/)
 
 ![Coffee Shop Website Preview](/images/1100px-desktop.png)
 
